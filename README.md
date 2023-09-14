@@ -3,9 +3,9 @@
 
 
  
-<h2><span>npm create vite@latest</span></h2>
-<h2><span>npm i express cors axios ytdl-core@4.10.0</span></h2>
-<h2><span>npm i @xenova/transformers fluent-ffmpeg ffmpeg-static node-wav</span></h2>
+<p><span>npm create vite@latest</span></p>
+<p><span>npm i express cors axios ytdl-core@4.10.0</span></p>
+<p><span>npm i @xenova/transformers fluent-ffmpeg ffmpeg-static node-wav</span></p>
 
 
 
